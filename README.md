@@ -89,10 +89,4 @@ Built automated business insights using logic-based formulas.
 ↗Best Performing Category: Electronics
 ↘ Lowest Performing Customer Segment: Home Office
 
-📸 Dashboard Preview
-![<img width="1366" height="768" alt="dashboard 1" src="https://github.com/user-attachments/assets/3470ce63-df99-4880-93d9-d7d84c52849b" />]
-![<img width="1366" height="768" alt="dashboard 1" src="https://github.com/user-attachments/assets/a1e00ff7-9a50-4a57-bff1-7977d0685c30" />]
-![<img width="1366" height="768" alt="dashboard 1" src="https://github.com/user-attachments/assets/5e3828e3-6184-4a72-aa67-049195cbd093" />]
-📸 Dashboard Preview
-
-(Add screenshots here)
+Add screenshots here)
